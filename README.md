@@ -1,0 +1,1 @@
+When updating branch, if there are conflicts, check the conflict list, download the conflicting files and set the github version to match the original files. Sync the repo and re-edit the files as required. 
